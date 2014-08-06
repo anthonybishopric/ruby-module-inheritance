@@ -1,0 +1,1 @@
+run: `ruby script.rb`
